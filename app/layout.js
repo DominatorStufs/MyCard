@@ -11,7 +11,7 @@ const poppins = Poppins({
 });
 export const metadata = {
   title: {
-    default: 'MyCars',
+    default: 'MyCard',
     template: '%s | MyCard',
   },
   description: 'Open-Source link in bio tool for content creaters, developers and enthusiasts.',
