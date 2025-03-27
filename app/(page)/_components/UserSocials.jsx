@@ -107,7 +107,7 @@ export default function UserSocials({ userDataName }) {
             )}
             <div className="mt-32 grid place-content-center text-center -mb-10">
                 <Logo />
-                <p className="text-xs">Made with ❤️ by <a href="https://www.instagram.com/dominator.onscreen">DOMINATOR</a></p>
+                <p className="text-xs">Made with ❤️ by <a href="https://www.instagram.com/dom1nator.xyz">DOMINATOR</a></p>
             </div>
         </div>
     )
