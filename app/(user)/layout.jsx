@@ -8,7 +8,8 @@ export default function Layout({ children }) {
             {children}
             <div className="mt-20 mb-8 grid place-content-center text-center">
                 <Logo />
-                <p className="text-xs">Made with ❤️ by <a href="https://www.instagram.com/dom1nator.xyz">Dominator</a></p>
+                <p className="text-xs">An Open Source Project by <a href="https://github.com/DominatorStufs">DominatorStufs</a></p>
+               
             </div>
         </main>
     )
