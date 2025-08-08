@@ -11,7 +11,7 @@ export default function Footer() {
           className="text-foreground underline"
           href="https://github.com/DominatorStufs"
         >
-          r2hu1
+          DominatorStufs
         </a>
         . Source code available on{" "}
         <a
