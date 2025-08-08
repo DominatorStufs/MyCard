@@ -58,7 +58,7 @@ export default async function Hero() {
       <div className="mt-32 w-fit h-fit border-primary/10 border-2 rounded-lg mx-auto">
         <img
           className="rounded-lg"
-          src="/assets/homepage-dark.png"
+          src="/public/assets/homepage.png"
           alt="Preview"
         />
       </div>
