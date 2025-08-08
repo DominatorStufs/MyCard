@@ -48,7 +48,7 @@ export default async function Hero() {
         </Button>
         <Button variant="outline" asChild>
           <Link
-            href="https://mysocialz.vercel.app/r2hu1"
+            href="https://mysocialz.vercel.app/dominator"
             className="flex items-center gap-1"
           >
             Preview <ArrowRight className="h-4 w-4 -rotate-45" />
